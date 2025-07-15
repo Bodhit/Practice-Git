@@ -1,5 +1,5 @@
-def addition(a, b):
-    return a + b
+def addition(a, b,c):
+    return a + b + c
 
 def subtraction(a, b,c):
     return a - b - c
@@ -12,7 +12,6 @@ def division(a, b):
         return a / b
     else:
         return "Division by zero error"
-<<<<<<< HEAD
 def modulus(a, b):
     if b != 0:
         return a % b
@@ -31,4 +30,4 @@ def exponentiation(a, b):
         return "Modulus by zero error"  
     return a % b
 #### Story Completion 
->>>>>>> bodhit
+
