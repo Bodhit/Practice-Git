@@ -17,7 +17,3 @@ def modulus(a, b):
         return a % b
     else:
         return "Division by zero error"
-    if b != 0:
-        return a % b
-    else:
-        return "Division by zero error"
